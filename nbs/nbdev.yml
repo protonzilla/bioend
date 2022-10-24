@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "bioend"
+  site-url: "https://protonzilla.github.io/bioend"
+  description: "A general approach to endmember extraction for biospectroscopy"
+  repo-branch: main
+  repo-url: "https://github.com/protonzilla/bioend"
